@@ -216,13 +216,13 @@
 213	актрисы	актриса	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Plur	1014	nsubj	_	words@joa1982f#@joa1982f#93.576#93.852
 214	/	/	PUNCT	_	_	1234	punct	_	words@joa1982f#@joa1982f#93.852#94.128
 215	и	и	CCONJ	_	_	217	cc	_	words@joa1982f#@joa1982f#94.128#94.404
-216	чем	что	PRON	_	Case=Ins	781	conj	_	words@joa1982f#@joa1982f#94.404#94.68
+216	чем	чем	PRON	_	Case=Ins	781	conj	_	words@joa1982f#@joa1982f#94.404#94.68
 217	дальше	далеко	ADV	_	Degree=Cmp	1234	conj	_	words@joa1982f#@joa1982f#94.68#94.956
 218	как-то	как-то	ADV	_	Degree=Pos	220	obl	_	words@joa1982f#@joa1982f#94.956#95.232
 219	от	от	ADP	_	_	220	case	_	words@joa1982f#@joa1982f#95.232#95.508
 220	Москвы	Москва	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	634	conj	_	words@joa1982f#@joa1982f#95.508#95.784
 221	/	/	PUNCT	_	_	1243	punct	_	words@joa1982f#@joa1982f#95.784#96.06
-222	тем	то	PRON	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	826	obl	_	words@joa1982f#@joa1982f#96.06#96.336
+222	тем	тем	PRON	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	826	obl	_	words@joa1982f#@joa1982f#96.06#96.336
 223	больше	много	ADV	_	Degree=Cmp	1211	advmod	_	words@joa1982f#@joa1982f#96.336#96.612
 224	надо	надо	ADV	_	Degree=Pos	341	conj	_	words@joa1982f#@joa1982f#96.612#96.888
 225	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	1211	aux	_	words@joa1982f#@joa1982f#96.888#97.164
@@ -275,7 +275,7 @@
 272	/	/	PUNCT	_	_	1177	punct	_	words@joa1982f#@joa1982f#109.86#110.136
 273	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	377	nsubj	_	words@joa1982f#@joa1982f#110.136#110.412
 274	для	для	ADP	_	_	381	case	_	words@joa1982f#@joa1982f#110.412#110.688
-275	себя	я	PRON	_	Case=Gen	1085	obl	_	words@joa1982f#@joa1982f#110.688#110.964
+275	себя	себя	PRON	_	Case=Gen	1085	obl	_	words@joa1982f#@joa1982f#110.688#110.964
 276	сформулировала	сформулировать	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	393	conj	_	words@joa1982f#@joa1982f#110.964#111.24
 277	там	там	ADV	_	Degree=Pos	377	advmod	_	words@joa1982f#@joa1982f#111.24#111.516
 278	два	два	NUM	_	Animacy=Inan|Case=Acc|Gender=Masc	279	nummod:gov	_	words@joa1982f#@joa1982f#111.516#111.792
@@ -1304,4 +1304,3 @@
 1301	больница	больница	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	1296	parataxis	_	words@ijs1984f#@ijs1984f#332.61#332.91
 1302	?	?	PUNCT	_	_	1301	punct	_	words@ijs1984f#@ijs1984f#332.91#333.21
 1303	угу	уг	NOUN	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	377	conj	_	words@ijs1984f#@ijs1984f#341.745#342.005
-
