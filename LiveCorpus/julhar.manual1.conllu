@@ -24,7 +24,7 @@
 21	пишу	писать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	24	conj	_	words@joa1982f#@joa1982f#40.304#40.576
 22	концерт	концерт	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	21	obj	_	words@joa1982f#@joa1982f#40.576#40.848
 23	/	/	PUNCT	_	_	24	punct	_	words@joa1982f#@joa1982f#40.848#41.12
-24	значит	значит	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	11	conj	_	words@joa1982f#@joa1982f#41.12#41.392
+24	значит	значит	ADV	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	11	conj	_	words@joa1982f#@joa1982f#41.12#41.392
 25	для	для	ADP	_	_	26	case	_	words@joa1982f#@joa1982f#41.392#41.664
 26	меня	я	PRON	_	Case=Gen|Number=Sing|Person=1	24	obl	_	words@joa1982f#@joa1982f#41.664#41.936
 27	две	два	NUM	_	Case=Nom|Gender=Fem	30	nummod:gov	_	words@joa1982f#@joa1982f#41.936#42.208
@@ -33,7 +33,7 @@
 30	темы	тема	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	24	nsubj	_	words@joa1982f#@joa1982f#42.752#43.024
 31	/	/	PUNCT	_	_	33	punct	_	words@joa1982f#@joa1982f#43.024#43.296
 32	харассмент	харассмент	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	33	nsubj	_	words@joa1982f#@joa1982f#43.296#43.568
-33	значит	значит	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	24	parataxis	_	words@joa1982f#@joa1982f#43.568#43.84
+33	значит	значит	ADV	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	24	parataxis	_	words@joa1982f#@joa1982f#43.568#43.84
 34	одна	один	NUM	_	Case=Nom|Gender=Fem	33	nsubj	_	words@joa1982f#@joa1982f#43.84#44.112
 35	из	из	ADP	_	_	36	case	_	words@joa1982f#@joa1982f#44.112#44.384
 36	центральных	центральный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	34	nmod	_	words@joa1982f#@joa1982f#44.384#44.656
@@ -158,7 +158,7 @@
 155	так	так	ADV	_	Degree=Pos	377	conj	_	words@joa1982f#@joa1982f#76.752#77.024
 156	/	/	PUNCT	_	_	371	punct	_	words@joa1982f#@joa1982f#77.024#77.296
 157	/	/	PUNCT	_	_	371	punct	_	words@joa1982f#@joa1982f#77.296#77.568
-158	окей	окей	X	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	377	conj	_	words@joa1982f#@joa1982f#77.568#77.84
+158	окей	окей	PART 	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	377	conj	_	words@joa1982f#@joa1982f#77.568#77.84
 159	/	/	PUNCT	_	_	371	punct	_	words@joa1982f#@joa1982f#77.84#78.112
 160	/	/	PUNCT	_	_	162	punct	_	words@joa1982f#@joa1982f#78.112#78.384
 161	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	162	nsubj:pass	_	words@joa1982f#@joa1982f#78.384#78.656
