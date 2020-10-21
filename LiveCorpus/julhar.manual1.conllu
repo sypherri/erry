@@ -3,7 +3,7 @@
 # udpipe_model_licence = CC BY-NC-SA
 1	докарантинная	докарантинный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	2	amod	_	words@joa1982f#@joa1982f#5.74#6.194
 2	эпоха	эпоха	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	words@joa1982f#@joa1982f#6.194#6.648
-3	да	да	CCONJ	_	_	4	cc	_	words@joa1982f#@joa1982f#6.648#7.102
+3	да	да	PART	_	_	4	cc	_	words@joa1982f#@joa1982f#6.648#7.102
 4	ждем	ждать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	2	conj	_	words@joa1982f#@joa1982f#25.33#25.695
 5	пока	пока	SCONJ	_	_	11	mark	_	words@joa1982f#@joa1982f#25.695#26.06
 6	Регина	Регина	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	11	nsubj	_	words@joa1982f#@joa1982f#26.06#26.425
@@ -13,7 +13,7 @@
 10	то	то	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	9	fixed	_	words@joa1982f#@joa1982f#27.52#27.885
 11	скажет	сказать	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	2	acl	_	words@joa1982f#@joa1982f#27.885#28.25
 12	и	и	CCONJ	_	_	13	cc	_	words@joa1982f#@joa1982f#28.25#28.62
-13	#смеется#	#смеется#	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Mid	11	conj	_	words@joa1982f#@joa1982f#28.62#30.33
+13	#смеется#	#смеется#	X	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Mid	11	conj	_	words@joa1982f#@joa1982f#28.62#30.33
 14	и	и	CCONJ	_	_	16	cc	_	words@joa1982f#@joa1982f#30.33#30.735
 15	сразу	сразу	ADV	_	Degree=Pos	16	advmod	_	words@joa1982f#@joa1982f#30.735#31.14
 16	заиграет	заиграть	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	11	conj	_	words@joa1982f#@joa1982f#31.14#31.545
@@ -47,9 +47,9 @@
 44	проверяю	проверять	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	42	xcomp	_	words@joa1982f#@joa1982f#46.56#46.832
 45	в	в	ADP	_	_	46	case	_	words@joa1982f#@joa1982f#46.832#47.104
 46	Москве	Москва	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	44	obl	_	words@joa1982f#@joa1982f#47.104#47.376
-47	вроде	вроде	ADV	_	Degree=Pos	49	parataxis	_	words@joa1982f#@joa1982f#47.376#47.648
+47	вроде	вроде	PART	_	Degree=Pos	49	parataxis	_	words@joa1982f#@joa1982f#47.376#47.648
 48	все	все	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	49	nsubj	_	words@joa1982f#@joa1982f#47.648#47.92
-49	неплохо	неплохо	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	33	obl	_	words@joa1982f#@joa1982f#47.92#48.192
+49	неплохо	неплохо	ADV	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	33	obl	_	words@joa1982f#@joa1982f#47.92#48.192
 50	/	/	PUNCT	_	_	53	punct	_	words@joa1982f#@joa1982f#48.192#48.464
 51	/	/	PUNCT	_	_	53	punct	_	words@joa1982f#@joa1982f#48.464#48.736
 52	первый	первый	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	53	amod	_	words@joa1982f#@joa1982f#48.736#49.008
@@ -58,14 +58,14 @@
 55	первый	первый	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	56	amod	_	words@joa1982f#@joa1982f#49.552#49.824
 56	концерт	концерт	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	60	nsubj	_	words@joa1982f#@joa1982f#49.824#50.096
 57	тура	тур	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	56	nmod	_	words@joa1982f#@joa1982f#50.096#50.368
-58	был	быть	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	60	cop	_	words@joa1982f#@joa1982f#50.368#50.64
+58	был	быть VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	60	cop	_	words@joa1982f#@joa1982f#50.368#50.64
 59	в	в	ADP	_	_	60	case	_	words@joa1982f#@joa1982f#50.64#50.912
 60	Москве	Москва	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	53	nmod	_	words@joa1982f#@joa1982f#50.912#51.184
 61	/	/	PUNCT	_	_	65	punct	_	words@joa1982f#@joa1982f#51.184#51.456
 62	вроде	вроде	ADV	_	Degree=Pos	1211	parataxis	_	words@joa1982f#@joa1982f#51.456#51.728
 63	тоже	тоже	PART	_	_	1211	advmod	_	words@joa1982f#@joa1982f#51.728#52.0
 64	все	все	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	65	nsubj	_	words@joa1982f#@joa1982f#52.0#52.272
-65	нормально	нормально	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	60	conj	_	words@joa1982f#@joa1982f#52.272#52.544
+65	нормально	нормально	ADV	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	60	conj	_	words@joa1982f#@joa1982f#52.272#52.544
 66	/	/	PUNCT	_	_	69	punct	_	words@joa1982f#@joa1982f#52.544#52.816
 67	и	и	CCONJ	_	_	69	cc	_	words@joa1982f#@joa1982f#52.816#53.088
 68	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1	69	nsubj	_	words@joa1982f#@joa1982f#53.088#53.36
@@ -83,7 +83,7 @@
 80	в	в	ADP	_	_	79	case	_	words@joa1982f#@joa1982f#56.352#56.624
 81	/	/	PUNCT	_	_	352	punct	_	words@joa1982f#@joa1982f#56.624#56.896
 82	/	/	PUNCT	_	_	352	punct	_	words@joa1982f#@joa1982f#56.896#57.168
-83	ааа	ааа	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	72	appos	_	words@joa1982f#@joa1982f#57.168#57.44
+83	ааа	ааа	X	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	72	appos	_	words@joa1982f#@joa1982f#57.168#57.44
 84	/	/	PUNCT	_	_	86	punct	_	words@joa1982f#@joa1982f#57.44#57.712
 85	условно	условно	ADV	_	Degree=Pos	871	advmod	_	words@joa1982f#@joa1982f#57.712#57.984
 86	Рязань	Рязань	PROPN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	33	nsubj	_	words@joa1982f#@joa1982f#57.984#58.256
@@ -115,7 +115,7 @@
 112	/	/	PUNCT	_	_	114	punct	_	words@joa1982f#@joa1982f#65.056#65.328
 113	в	в	ADP	_	_	114	case	_	words@joa1982f#@joa1982f#65.328#65.6
 114	Москве	Москва	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	119	nmod	_	words@joa1982f#@joa1982f#65.6#65.872
-115	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	119	nsubj	_	words@joa1982f#@joa1982f#65.872#66.144
+115	это	это	PART	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	119	nsubj	_	words@joa1982f#@joa1982f#65.872#66.144
 116	там	там	ADV	_	Degree=Pos	119	advmod	_	words@joa1982f#@joa1982f#66.144#66.416
 117	девяносто	девяносто	NUM	_	Case=Nom	118	nummod:gov	_	words@joa1982f#@joa1982f#66.416#66.688
 118	пять	пять	NUM	_	Case=Nom	482	nummod:gov	_	words@joa1982f#@joa1982f#66.688#66.96
@@ -148,7 +148,7 @@
 145	человек	человек	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	341	nsubj	_	words@joa1982f#@joa1982f#74.032#74.304
 146	двадцать	двадцать	NUM	_	Case=Acc	545	nummod:gov	_	words@joa1982f#@joa1982f#74.304#74.576
 147	просто	просто	PART	_	_	148	advmod	_	words@joa1982f#@joa1982f#74.576#74.848
-148	#смеется#	#смеется#	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Mid	377	conj	_	words@joa1982f#@joa1982f#74.848#75.12
+148	#смеется#	#смеется#	X	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Mid	377	conj	_	words@joa1982f#@joa1982f#74.848#75.12
 149	из	из	ADP	_	_	361	case	_	words@joa1982f#@joa1982f#75.12#75.392
 150	тысячного	тысячный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	361	amod	_	words@joa1982f#@joa1982f#75.392#75.664
 151	зала	зал	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	1014	obl	_	words@joa1982f#@joa1982f#75.664#75.936
@@ -169,16 +169,16 @@
 166	идет	идти	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	377	conj	_	words@joa1982f#@joa1982f#79.744#80.016
 167	речь	речь	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	492	nsubj	_	words@joa1982f#@joa1982f#80.016#80.288
 168	о	о	ADP	_	_	169	case	_	words@joa1982f#@joa1982f#80.288#80.56
-169	том-то	то-то	PRON	_	Case=Loc	723	obl	_	words@joa1982f#@joa1982f#80.56#80.832
+169	том-то	то-то	PART	_	Case=Loc	723	obl	_	words@joa1982f#@joa1982f#80.56#80.832
 170	о	о	ADP	_	_	171	case	_	words@joa1982f#@joa1982f#80.832#81.104
-171	том-то	то-то	PRON	_	Case=Loc	723	obl	_	words@joa1982f#@joa1982f#81.104#81.5
+171	том-то	то-то	PART	_	Case=Loc	723	obl	_	words@joa1982f#@joa1982f#81.104#81.5
 172	вот	вот	PART	_	_	171	advmod	_	words@joa1982f#@joa1982f#82.26#82.536
 173	/	/	PUNCT	_	_	729	punct	_	words@joa1982f#@joa1982f#82.536#82.812
 174	о	о	ADP	_	_	175	case	_	words@joa1982f#@joa1982f#82.812#83.088
-175	том-то	то-то	PRON	_	Case=Loc	397	nmod	_	words@joa1982f#@joa1982f#83.088#83.364
+175	том-то	то-то	PART	_	Case=Loc	397	nmod	_	words@joa1982f#@joa1982f#83.088#83.364
 176	/	/	PUNCT	_	_	178	punct	_	words@joa1982f#@joa1982f#83.364#83.64
 177	о	о	ADP	_	_	178	case	_	words@joa1982f#@joa1982f#83.64#83.916
-178	том-то	то-то	PRON	_	Case=Loc	361	conj	_	words@joa1982f#@joa1982f#83.916#84.192
+178	том-то	то-то	PART	_	Case=Loc	361	conj	_	words@joa1982f#@joa1982f#83.916#84.192
 179	/	/	PUNCT	_	_	371	punct	_	words@joa1982f#@joa1982f#84.192#84.468
 180	туда-сюда	туда-сюда	ADV	_	Degree=Pos	482	conj	_	words@joa1982f#@joa1982f#84.468#84.744
 181	/	/	PUNCT	_	_	492	punct	_	words@joa1982f#@joa1982f#84.744#85.02
@@ -222,7 +222,7 @@
 219	от	от	ADP	_	_	220	case	_	words@joa1982f#@joa1982f#95.232#95.508
 220	Москвы	Москва	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	634	conj	_	words@joa1982f#@joa1982f#95.508#95.784
 221	/	/	PUNCT	_	_	1243	punct	_	words@joa1982f#@joa1982f#95.784#96.06
-222	тем	тем	PRON	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	826	obl	_	words@joa1982f#@joa1982f#96.06#96.336
+222	тем	то	PRON	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	826	obl	_	words@joa1982f#@joa1982f#96.06#96.336
 223	больше	много	ADV	_	Degree=Cmp	1211	advmod	_	words@joa1982f#@joa1982f#96.336#96.612
 224	надо	надо	ADV	_	Degree=Pos	341	conj	_	words@joa1982f#@joa1982f#96.612#96.888
 225	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	1211	aux	_	words@joa1982f#@joa1982f#96.888#97.164
@@ -250,7 +250,7 @@
 247	пишут	писать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	835	conj	_	words@joa1982f#@joa1982f#102.96#103.236
 248	пришлось	прийтись	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	835	conj	_	words@joa1982f#@joa1982f#103.236#103.512
 249	несколько	несколько	NUM	_	Animacy=Inan|Case=Acc	381	nummod:gov	_	words@joa1982f#@joa1982f#103.512#103.788
-250	раз	раз	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	382	obl	_	words@joa1982f#@joa1982f#103.788#104.064
+250	раз	раз	NUM	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	382	obl	_	words@joa1982f#@joa1982f#103.788#104.064
 251	погуглить	погуглить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	377	xcomp	_	words@joa1982f#@joa1982f#104.064#104.34
 252	вообще	вообще	ADV	_	Degree=Pos	1009	advmod	_	words@joa1982f#@joa1982f#104.34#104.616
 253	что	что	PRON	_	Case=Nom	382	obj	_	words@joa1982f#@joa1982f#104.616#104.892
@@ -262,7 +262,7 @@
 259	такая	такой	DET	_	Case=Nom|Gender=Fem|Number=Sing	357	det	_	words@joa1982f#@joa1982f#106.272#106.548
 260	думаешь	думать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	341	parataxis	_	words@joa1982f#@joa1982f#106.548#106.824
 261	ну	ну	PART	_	_	262	discourse	_	words@joa1982f#@joa1982f#106.824#107.1
-262	класс	класс	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	377	obj	_	words@joa1982f#@joa1982f#107.1#107.376
+262	класс	класс	ADV	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	377	obj	_	words@joa1982f#@joa1982f#107.1#107.376
 263	/	/	PUNCT	_	_	371	punct	_	words@joa1982f#@joa1982f#107.376#107.652
 264	если	если	SCONJ	_	_	271	mark	_	words@joa1982f#@joa1982f#107.652#107.928
 265	хотя	хотя	PART	_	_	267	advmod	_	words@joa1982f#@joa1982f#107.928#108.204
@@ -288,7 +288,7 @@
 285	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	377	nsubj	_	words@joa1982f#@joa1982f#113.448#113.724
 286	уже	уже	ADV	_	Degree=Pos	482	obl	_	words@joa1982f#@joa1982f#113.724#114.0
 287	/	/	PUNCT	_	_	729	punct	_	words@joa1982f#@joa1982f#114.0#114.276
-288	хорошо	хорошо	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	393	conj	_	words@joa1982f#@joa1982f#114.276#114.552
+288	хорошо	хорошо	ADV	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	393	conj	_	words@joa1982f#@joa1982f#114.276#114.552
 289	/	/	PUNCT	_	_	1204	punct	_	words@joa1982f#@joa1982f#114.552#114.828
 290	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	1211	nsubj	_	words@joa1982f#@joa1982f#114.828#115.104
 291	уже	уже	ADV	_	Degree=Pos	1211	advmod	_	words@joa1982f#@joa1982f#115.104#115.38
@@ -315,8 +315,8 @@
 312	стране	страна	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	482	nmod	_	words@joa1982f#@joa1982f#124.047#124.368
 313	/	/	PUNCT	_	_	314	punct	_	words@joa1982f#@joa1982f#124.368#124.689
 314	считаются	считаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	377	conj	_	words@joa1982f#@joa1982f#124.689#125.01
-315	надуманной	надуманный	VERB	_	Aspect=Perf|Case=Ins|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	317	amod	_	words@joa1982f#@joa1982f#125.01#125.331
-316	выдуманной	выдуманный	VERB	_	Aspect=Perf|Case=Ins|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	317	amod	_	words@joa1982f#@joa1982f#125.331#125.652
+315	надуманной	надуманный	ADJ	_	Aspect=Perf|Case=Ins|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	317	amod	_	words@joa1982f#@joa1982f#125.01#125.331
+316	выдуманной	выдуманный	ADJ	_	Aspect=Perf|Case=Ins|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	317	amod	_	words@joa1982f#@joa1982f#125.331#125.652
 317	проблемой	проблема	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	314	obl	_	words@joa1982f#@joa1982f#125.652#125.973
 318	/	/	PUNCT	_	_	1085	punct	_	words@joa1982f#@joa1982f#125.973#126.294
 319	возможно	возможно	ADV	_	Degree=Pos	1085	advmod	_	words@joa1982f#@joa1982f#126.294#126.615
@@ -433,7 +433,7 @@
 430	что	что	PRON	_	Case=Acc	849	obj	_	words@joa1982f#@joa1982f#166.52#166.81
 431	/	/	PUNCT	_	_	371	punct	_	words@joa1982f#@joa1982f#166.81#167.1
 432	/	/	PUNCT	_	_	371	punct	_	words@joa1982f#@joa1982f#167.1#167.39
-433	ааа	ааа	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	1009	conj	_	words@joa1982f#@joa1982f#167.39#167.68
+433	ааа	ааа	X	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	1009	conj	_	words@joa1982f#@joa1982f#167.39#167.68
 434	/	/	PUNCT	_	_	341	punct	_	words@joa1982f#@joa1982f#167.68#167.97
 435	/	/	PUNCT	_	_	341	punct	_	words@joa1982f#@joa1982f#167.97#168.26
 436	вот	вот	PART	_	_	208	advmod	_	words@joa1982f#@joa1982f#168.26#168.55
@@ -478,7 +478,7 @@
 475	лет	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	476	obl	_	words@joa1982f#@joa1982f#179.57#179.86
 476	молчала	молчать	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	377	conj	_	words@joa1982f#@joa1982f#179.86#180.15
 477	?	?	PUNCT	_	_	482	punct	_	words@joa1982f#@joa1982f#180.15#180.44
-478	типа	типа	ADV	_	Degree=Pos	482	advmod	_	words@joa1982f#@joa1982f#180.44#180.73
+478	типа	типа	PART	_	Degree=Pos	482	advmod	_	words@joa1982f#@joa1982f#180.44#180.73
 479	чё	че	PRON	_	Case=Nom	482	nmod	_	words@joa1982f#@joa1982f#180.73#181.02
 480	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	482	nsubj	_	words@joa1982f#@joa1982f#181.02#181.31
 481	за	за	ADP	_	_	482	case	_	words@joa1982f#@joa1982f#181.31#181.6
@@ -525,7 +525,7 @@
 522	десять	десять	NUM	_	Case=Acc	523	nummod:gov	_	words@joa1982f#@joa1982f#193.2#193.49
 523	лет	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	1211	obl	_	words@joa1982f#@joa1982f#193.49#193.78
 524	молчала	молчать	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	1085	conj	_	words@joa1982f#@joa1982f#193.78#194.07
-525	#смеется#	#смеется#	VERB	_	_	1211	xcomp	_	words@joa1982f#@joa1982f#194.07#194.36
+525	#смеется#	#смеется#	X	_	_	1211	xcomp	_	words@joa1982f#@joa1982f#194.07#194.36
 526	/	/	PUNCT	_	_	654	punct	_	words@joa1982f#@joa1982f#194.36#194.65
 527	то	то	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	1085	mark	_	words@joa1982f#@joa1982f#194.65#194.94
 528	есть	быть	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	652	fixed	_	words@joa1982f#@joa1982f#194.94#195.23
@@ -542,9 +542,9 @@
 539	ну	ну	PART	_	_	541	parataxis	_	words@joa1982f#@joa1982f#198.13#198.42
 540	и	и	CCONJ	_	_	341	cc	_	words@joa1982f#@joa1982f#198.42#198.71
 541	что	что	PRON	_	Case=Nom	341	conj	_	words@joa1982f#@joa1982f#198.71#199.0
-542	есть	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	341	cop	_	words@joa1982f#@joa1982f#199.0#199.29
+542	есть	быть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	341	cop	_	words@joa1982f#@joa1982f#199.0#199.29
 543	какая-то	какой-то	DET	_	Case=Nom|Gender=Fem|Number=Sing	545	det	_	words@joa1982f#@joa1982f#199.29#199.58
-544	супер	супер	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	341	nsubj	_	words@joa1982f#@joa1982f#199.58#199.87
+544	супер	супер	ADV	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	341	nsubj	_	words@joa1982f#@joa1982f#199.58#199.87
 545	волна	волна	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	341	nsubj	_	words@joa1982f#@joa1982f#199.87#200.16
 546	какого-то	какой-то	DET	_	Case=Gen|Gender=Masc|Number=Sing	341	det	_	words@joa1982f#@joa1982f#200.16#200.45
 547	там	там	ADV	_	Degree=Pos	1014	advmod	_	words@joa1982f#@joa1982f#200.45#200.74
@@ -595,7 +595,7 @@
 592	да	да	PART	_	_	393	cc	_	words@joa1982f#@joa1982f#215.006#215.294
 593	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	492	nsubj	_	words@joa1982f#@joa1982f#215.294#215.582
 594	щас	щас	ADV	_	Degree=Pos	393	advmod	_	words@joa1982f#@joa1982f#215.582#215.87
-595	модно	модно	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	393	conj	_	words@joa1982f#@joa1982f#215.87#216.158
+595	модно	модно	ADV	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	393	conj	_	words@joa1982f#@joa1982f#215.87#216.158
 596	/	/	PUNCT	_	_	476	punct	_	words@joa1982f#@joa1982f#216.158#216.446
 597	и	и	CCONJ	_	_	601	cc	_	words@joa1982f#@joa1982f#216.446#216.734
 598	все	все	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	495	det	_	words@joa1982f#@joa1982f#216.734#217.022
@@ -650,7 +650,7 @@
 647	что	что	PRON	_	Case=Acc	1205	obj	_	words@joa1982f#@joa1982f#230.846#231.134
 648	/	/	PUNCT	_	_	371	punct	_	words@joa1982f#@joa1982f#231.134#231.422
 649	/	/	PUNCT	_	_	650	punct	_	words@joa1982f#@joa1982f#231.422#231.71
-650	ааа	ааа	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	647	appos	_	words@joa1982f#@joa1982f#231.71#231.998
+650	ааа	ааа	X	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	647	appos	_	words@joa1982f#@joa1982f#231.71#231.998
 651	/	/	PUNCT	_	_	654	punct	_	words@joa1982f#@joa1982f#231.998#232.286
 652	потому	потому	ADV	_	Degree=Pos	654	mark	_	words@joa1982f#@joa1982f#232.286#232.574
 653	что	что	SCONJ	_	_	652	fixed	_	words@joa1982f#@joa1982f#232.574#232.862
@@ -702,7 +702,7 @@
 699	и	и	CCONJ	_	_	700	cc	_	words@joa1982f#@joa1982f#245.822#246.11
 700	женщин	женщина	NOUN	_	Animacy=Anim|Case=Acc|Gender=Fem|Number=Plur	698	conj	_	words@joa1982f#@joa1982f#246.11#246.398
 701	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	393	nsubj	_	words@joa1982f#@joa1982f#246.398#246.686
-702	классно	классный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	1014	conj	_	words@joa1982f#@joa1982f#246.686#246.974
+702	классно	классно	ADV	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	1014	conj	_	words@joa1982f#@joa1982f#246.686#246.974
 703	а	а	CCONJ	_	_	706	cc	_	words@joa1982f#@joa1982f#246.974#247.262
 704	вот	вот	PART	_	_	590	advmod	_	words@joa1982f#@joa1982f#247.262#247.55
 705	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	706	nsubj	_	words@joa1982f#@joa1982f#247.55#247.838
@@ -716,7 +716,7 @@
 713	ну	ну	PART	_	_	371	discourse	_	words@joa1982f#@joa1982f#249.854#250.142
 714	зачем	зачем	ADV	_	Degree=Pos	483	conj	_	words@joa1982f#@joa1982f#250.142#250.43
 715	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	483	nsubj	_	words@joa1982f#@joa1982f#250.43#250.718
-716	#смеется#	#смеется#	VERB	_	_	482	conj	_	words@joa1982f#@joa1982f#250.718#251.006
+716	#смеется#	#смеется#	X	_	_	482	conj	_	words@joa1982f#@joa1982f#250.718#251.006
 717	/	/	PUNCT	_	_	393	punct	_	words@joa1982f#@joa1982f#251.006#251.294
 718	/	/	PUNCT	_	_	393	punct	_	words@joa1982f#@joa1982f#251.294#251.582
 719	нам	мы	PRON	_	Case=Dat|Number=Plur|Person=1	393	iobj	_	words@joa1982f#@joa1982f#251.582#251.87
@@ -729,7 +729,7 @@
 726	в	в	ADP	_	_	361	case	_	words@joa1982f#@joa1982f#256.533#256.81
 727	/	/	PUNCT	_	_	729	punct	_	words@joa1982f#@joa1982f#256.81#257.087
 728	/	/	PUNCT	_	_	729	punct	_	words@joa1982f#@joa1982f#257.087#257.364
-729	ммм	ммм	NOUN	_	Foreign=Yes	723	obl	_	words@joa1982f#@joa1982f#257.364#257.641
+729	ммм	ммм	X	_	Foreign=Yes	723	obl	_	words@joa1982f#@joa1982f#257.364#257.641
 730	/	/	PUNCT	_	_	734	punct	_	words@joa1982f#@joa1982f#257.641#257.918
 731	в	в	ADP	_	_	734	case	_	words@joa1982f#@joa1982f#257.918#258.195
 732	/	/	PUNCT	_	_	1194	punct	_	words@joa1982f#@joa1982f#258.195#258.472
@@ -763,7 +763,7 @@
 760	какой-то	какой-то	DET	_	Case=Acc|Gender=Masc|Number=Sing	761	det	_	words@joa1982f#@joa1982f#265.951#266.228
 761	диагноз	диагноз	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	1240	obj	_	words@joa1982f#@joa1982f#266.228#266.505
 762	/	/	PUNCT	_	_	1243	punct	_	words@joa1982f#@joa1982f#266.505#266.782
-763	щас	щас	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	1240	parataxis	_	words@joa1982f#@joa1982f#266.782#267.059
+763	щас	щас	ADV	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	1240	parataxis	_	words@joa1982f#@joa1982f#266.782#267.059
 764	/	/	PUNCT	_	_	1243	punct	_	words@joa1982f#@joa1982f#267.059#267.336
 765	ну	ну	PART	_	_	1211	parataxis	_	words@joa1982f#@joa1982f#267.336#267.613
 766	/	/	PUNCT	_	_	1243	punct	_	words@joa1982f#@joa1982f#267.613#267.89
@@ -781,7 +781,7 @@
 778	/	/	PUNCT	_	_	781	punct	_	words@joa1982f#@joa1982f#270.937#271.214
 779	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	781	nsubj	_	words@joa1982f#@joa1982f#271.214#271.491
 780	так	так	ADV	_	Degree=Pos	781	obl	_	words@joa1982f#@joa1982f#271.491#271.768
-781	серьезно	серьезный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	777	parataxis	_	words@joa1982f#@joa1982f#271.768#272.045
+781	серьезно	серьезно	ADV	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	777	parataxis	_	words@joa1982f#@joa1982f#271.768#272.045
 782	/	/	PUNCT	_	_	1204	punct	_	words@joa1982f#@joa1982f#272.045#272.322
 783	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	1211	nsubj	_	words@joa1982f#@joa1982f#272.322#272.599
 784	вся	весь	DET	_	Case=Nom|Gender=Fem|Number=Sing	777	det	_	words@joa1982f#@joa1982f#272.599#272.876
@@ -803,7 +803,7 @@
 800	говорит	говорить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	377	conj	_	words@joa1982f#@joa1982f#277.031#277.308
 801	зайди	зайти	VERB	_	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	1211	xcomp	_	words@joa1982f#@joa1982f#277.308#277.585
 802	к	к	ADP	_	_	803	case	_	words@joa1982f#@joa1982f#277.585#277.862
-803	заведующему	заведующий	NOUN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing	1211	obl	_	words@joa1982f#@joa1982f#277.862#278.139
+803	заведующему	заведующий	ADJ	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing	1211	obl	_	words@joa1982f#@joa1982f#277.862#278.139
 804	отделения	отделение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	803	nmod	_	words@joa1982f#@joa1982f#278.139#278.416
 805	/	/	PUNCT	_	_	341	punct	_	words@joa1982f#@joa1982f#278.416#278.693
 806	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	341	nsubj	_	words@joa1982f#@joa1982f#278.693#278.97
@@ -838,7 +838,7 @@
 835	переживаешь	переживать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	341	acl	_	words@joa1982f#@joa1982f#286.726#287.003
 836	что	что	SCONJ	_	_	838	mark	_	words@joa1982f#@joa1982f#287.003#287.28
 837	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2	838	nsubj:pass	_	words@joa1982f#@joa1982f#287.28#287.557
-838	расстроена	расстроен	VERB	_	Aspect=Perf|Gender=Fem|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	835	conj	_	words@joa1982f#@joa1982f#287.557#287.834
+838	расстроена	расстроить	VERB	_	Aspect=Perf|Gender=Fem|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	835	conj	_	words@joa1982f#@joa1982f#287.557#287.834
 839	садись	садиться	VERB	_	Aspect=Imp|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Mid	835	xcomp	_	words@joa1982f#@joa1982f#287.834#288.111
 840	/	/	PUNCT	_	_	1234	punct	_	words@joa1982f#@joa1982f#288.111#288.388
 841	посадил	сажать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	393	conj	_	words@joa1982f#@joa1982f#288.388#288.665
@@ -878,7 +878,7 @@
 875	/	/	PUNCT	_	_	878	punct	_	words@joa1982f#@joa1982f#297.806#298.083
 876	да	да	CCONJ	_	_	878	cc	_	words@joa1982f#@joa1982f#298.083#298.36
 877	все	все	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	878	nsubj	_	words@joa1982f#@joa1982f#298.36#298.637
-878	нормально	нормально	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	393	conj	_	words@joa1982f#@joa1982f#298.637#298.914
+878	нормально	нормально	ADV	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	393	conj	_	words@joa1982f#@joa1982f#298.637#298.914
 879	/	/	PUNCT	_	_	881	punct	_	words@joa1982f#@joa1982f#298.914#299.191
 880	все	все	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	601	nsubj	_	words@joa1982f#@joa1982f#299.191#299.468
 881	образуется	образовываться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	393	conj	_	words@joa1982f#@joa1982f#299.468#299.745
@@ -891,7 +891,7 @@
 888	начинает	начинать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	377	conj	_	words@joa1982f#@joa1982f#301.407#301.684
 889	меня	я	PRON	_	Case=Acc|Number=Sing|Person=1	890	obj	_	words@joa1982f#@joa1982f#301.684#301.961
 890	целовать	целовать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	888	xcomp	_	words@joa1982f#@joa1982f#301.961#302.238
-891	#смеется#	#смеется#	PUNCT	_	_	382	punct	_	words@joa1982f#@joa1982f#302.238#302.52
+891	#смеется#	#смеется#	X	_	_	382	punct	_	words@joa1982f#@joa1982f#302.238#302.52
 892	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2	893	nsubj	_	words@joa1982f#@joa1982f#303.76#304.01
 893	понимаешь	понимать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	377	conj	_	words@joa1982f#@joa1982f#304.01#304.26
 894	/	/	PUNCT	_	_	896	punct	_	words@joa1982f#@joa1982f#304.26#304.51
@@ -928,7 +928,7 @@
 925	пошла	пойти	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	1177	conj	_	words@joa1982f#@joa1982f#312.01#312.26
 926	ни	ни	PART	_	_	928	advmod	_	words@joa1982f#@joa1982f#312.26#312.51
 927	к	к	ADP	_	_	928	case	_	words@joa1982f#@joa1982f#312.51#312.76
-928	за	за	PRON	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	1211	obl	_	words@joa1982f#@joa1982f#312.76#313.01
+928	за	за	X	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	1211	obl	_	words@joa1982f#@joa1982f#312.76#313.01
 929	.	.	PUNCT	_	_	1067	punct	_	words@joa1982f#@joa1982f#313.01#313.26
 930	.	.	PUNCT	_	_	1067	punct	_	words@joa1982f#@joa1982f#313.26#313.51
 931	.	.	PUNCT	_	_	393	punct	_	words@joa1982f#@joa1982f#313.51#313.76
@@ -1120,7 +1120,7 @@
 1117	или	или	CCONJ	_	_	1211	cc	_	words@joa1982f#@joa1982f#360.922#361.17
 1118	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	1211	nsubj	_	words@joa1982f#@joa1982f#361.17#361.418
 1119	думаю	думать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	1085	conj	_	words@joa1982f#@joa1982f#361.418#361.666
-1120	чт	чт	NOUN	_	Aspect=Imp|VerbForm=Inf|Voice=Act	1211	obj	_	words@joa1982f#@joa1982f#361.666#361.914
+1120	чт	чт	X	_	Aspect=Imp|VerbForm=Inf|Voice=Act	1211	obj	_	words@joa1982f#@joa1982f#361.666#361.914
 1121	.	.	PUNCT	_	_	1120	punct	_	words@joa1982f#@joa1982f#361.914#362.162
 1122	.	.	PUNCT	_	_	1067	punct	_	words@joa1982f#@joa1982f#362.162#362.41
 1123	.	.	PUNCT	_	_	393	punct	_	words@joa1982f#@joa1982f#362.41#362.658
@@ -1191,10 +1191,10 @@
 1188	что	что	SCONJ	_	_	1187	fixed	_	words@ijs1984f#@ijs1984f#17.678#18.002
 1189	/	/	PUNCT	_	_	1191	punct	_	words@ijs1984f#@ijs1984f#18.002#18.326
 1190	/	/	PUNCT	_	_	1191	punct	_	words@ijs1984f#@ijs1984f#18.326#18.65
-1191	ааа	ааа	NOUN	_	Foreign=Yes	1229	appos	_	words@ijs1984f#@ijs1984f#18.65#18.974
+1191	ааа	ааа	X	_	Foreign=Yes	1229	appos	_	words@ijs1984f#@ijs1984f#18.65#18.974
 1192	/	/	PUNCT	_	_	1194	punct	_	words@ijs1984f#@ijs1984f#18.974#19.298
 1193	/	/	PUNCT	_	_	1194	punct	_	words@ijs1984f#@ijs1984f#19.298#19.622
-1194	ммм	ммм	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	1191	appos	_	words@ijs1984f#@ijs1984f#19.622#19.946
+1194	ммм	ммм	X	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	1191	appos	_	words@ijs1984f#@ijs1984f#19.622#19.946
 1195	/	/	PUNCT	_	_	1194	punct	_	words@ijs1984f#@ijs1984f#19.946#20.27
 1196	/	/	PUNCT	_	_	1197	punct	_	words@ijs1984f#@ijs1984f#20.27#20.594
 1197	шалят	шалить	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1014	conj	_	words@ijs1984f#@ijs1984f#20.594#20.918
@@ -1212,7 +1212,7 @@
 1209	это	это	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	1211	obj	_	words@ijs1984f#@ijs1984f#24.482#24.806
 1210	вообще	вообще	ADV	_	Degree=Pos	1211	advmod	_	words@ijs1984f#@ijs1984f#24.806#25.13
 1211	плюются	плевать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	1085	conj	_	words@ijs1984f#@ijs1984f#25.13#25.508
-1212	#смеется#	#смеется#	VERB	_	_	1211	xcomp	_	words@ijs1984f#@ijs1984f#28.61#30.33
+1212	#смеется#	#смеется#	X	_	_	1211	xcomp	_	words@ijs1984f#@ijs1984f#28.61#30.33
 1213	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2	1211	nsubj	_	words@ijs1984f#@ijs1984f#32.59#32.852
 1214	/	/	PUNCT	_	_	1215	punct	_	words@ijs1984f#@ijs1984f#32.852#33.114
 1215	проехавшись	проехаться	VERB	_	Aspect=Perf|Tense=Past|VerbForm=Conv|Voice=Mid	314	advcl	_	words@ijs1984f#@ijs1984f#33.114#33.376
@@ -1261,7 +1261,7 @@
 1258	знают	знать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	341	csubj	_	words@ijs1984f#@ijs1984f#117.32#117.531
 1259	?	?	PUNCT	_	_	341	punct	_	words@ijs1984f#@ijs1984f#117.531#117.742
 1260	да	да	CCONJ	_	_	1261	cc	_	words@ijs1984f#@ijs1984f#157.78#158.08
-1261	ааа	ааа	NOUN	_	Foreign=Yes	341	nsubj	_	words@ijs1984f#@ijs1984f#158.74#159.003
+1261	ааа	ааа	X	_	Foreign=Yes	341	nsubj	_	words@ijs1984f#@ijs1984f#158.74#159.003
 1262	/	/	PUNCT	_	_	1267	punct	_	words@ijs1984f#@ijs1984f#159.003#159.266
 1263	/	/	PUNCT	_	_	1267	punct	_	words@ijs1984f#@ijs1984f#159.266#159.529
 1264	за	за	ADP	_	_	1266	case	_	words@ijs1984f#@ijs1984f#159.529#159.792
@@ -1303,4 +1303,4 @@
 1300	какая	какой	DET	_	Case=Nom|Gender=Fem|Number=Sing	1301	det	_	words@ijs1984f#@ijs1984f#332.31#332.61
 1301	больница	больница	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	1296	parataxis	_	words@ijs1984f#@ijs1984f#332.61#332.91
 1302	?	?	PUNCT	_	_	1301	punct	_	words@ijs1984f#@ijs1984f#332.91#333.21
-1303	угу	уг	NOUN	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	377	conj	_	words@ijs1984f#@ijs1984f#341.745#342.005
+1303	угу	уг	PRON	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	377	conj	_	words@ijs1984f#@ijs1984f#341.745#342.005
