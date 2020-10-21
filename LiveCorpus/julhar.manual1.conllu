@@ -13,7 +13,7 @@
 10	то	то	PRON	_	Case=Acc	9	fixed	_	words@joa1982f#@joa1982f#27.52#27.885
 11	скажет	сказать	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	2	acl	_	words@joa1982f#@joa1982f#27.885#28.25
 12	и	и	CCONJ	_	_	13	cc	_	words@joa1982f#@joa1982f#28.25#28.62
-13	#смеется#	#смеется#	X	_	_ 11	conj	_	words@joa1982f#@joa1982f#28.62#30.33
+13	#смеется#	#смеется#	X	_	_	11	conj	_	words@joa1982f#@joa1982f#28.62#30.33
 14	и	и	CCONJ	_	_	16	cc	_	words@joa1982f#@joa1982f#30.33#30.735
 15	сразу	сразу	ADV	_	Degree=Pos	16	advmod	_	words@joa1982f#@joa1982f#30.735#31.14
 16	заиграет	заиграть	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	11	conj	_	words@joa1982f#@joa1982f#31.14#31.545
