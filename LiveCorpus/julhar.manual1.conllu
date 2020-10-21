@@ -1298,7 +1298,7 @@
 1295	/	/	PUNCT	_	_	1296	punct	_	words@ijs1984f#@ijs1984f#254.18#254.535
 1296	случаи	случай	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	1293	parataxis	_	words@ijs1984f#@ijs1984f#254.535#254.89
 1297	домогательства	домогательство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	1296	nmod	_	words@ijs1984f#@ijs1984f#254.89#255.25
-1298	фу	фу	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	1297	iobj	_	words@ijs1984f#@ijs1984f#303.32#303.645
+1298	фу	фу	PART	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	1297	iobj	_	words@ijs1984f#@ijs1984f#303.32#303.645
 1299	!	!	PUNCT	_	_	1301	punct	_	words@ijs1984f#@ijs1984f#303.645#303.97
 1300	какая	какой	DET	_	Case=Nom|Gender=Fem|Number=Sing	1301	det	_	words@ijs1984f#@ijs1984f#332.31#332.61
 1301	больница	больница	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	1296	parataxis	_	words@ijs1984f#@ijs1984f#332.61#332.91
