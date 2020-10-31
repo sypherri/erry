@@ -49,7 +49,7 @@
 46	Москве	Москва	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	44	obl	_	words@joa1982f#@joa1982f#47.104#47.376
 47	вроде	вроде	ADV	_	Degree=Pos	49	parataxis	_	words@joa1982f#@joa1982f#47.376#47.648
 48	все	все	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	49	nsubj	_	words@joa1982f#@joa1982f#47.648#47.92
-49	неплохо	неплохой	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	33	obl	_	words@joa1982f#@joa1982f#47.92#48.192
+49	неплохо	неплохо	ADV	_	Degree=Pos	33	obl	_	words@joa1982f#@joa1982f#47.92#48.192
 50	/	/	PUNCT	_	_	53	punct	_	words@joa1982f#@joa1982f#48.192#48.464
 51	/	/	PUNCT	_	_	53	punct	_	words@joa1982f#@joa1982f#48.464#48.736
 52	первый	первый	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	53	amod	_	words@joa1982f#@joa1982f#48.736#49.008
@@ -223,7 +223,7 @@
 220	Москвы	Москва	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	634	conj	_	words@joa1982f#@joa1982f#95.508#95.784
 221	/	/	PUNCT	_	_	1243	punct	_	words@joa1982f#@joa1982f#95.784#96.06
 222	тем	то	PRON	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	826	obl	_	words@joa1982f#@joa1982f#96.06#96.336
-223	больше	больше	ADV	_	Degree=Cmp	1211	advmod	_	words@joa1982f#@joa1982f#96.336#96.612
+223	больше	много	ADV	_	Degree=Cmp	1211	advmod	_	words@joa1982f#@joa1982f#96.336#96.612
 224	надо	надо	ADV	_	Degree=Pos	341	conj	_	words@joa1982f#@joa1982f#96.612#96.888
 225	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	1211	aux	_	words@joa1982f#@joa1982f#96.888#97.164
 226	объяснять	объяснять	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	654	csubj	_	words@joa1982f#@joa1982f#97.164#97.44
@@ -315,8 +315,8 @@
 312	стране	страна	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	482	nmod	_	words@joa1982f#@joa1982f#124.047#124.368
 313	/	/	PUNCT	_	_	314	punct	_	words@joa1982f#@joa1982f#124.368#124.689
 314	считаются	считать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	377	conj	_	words@joa1982f#@joa1982f#124.689#125.01
-315	надуманной	надуманная	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	317	amod	_	words@joa1982f#@joa1982f#125.01#125.331
-316	выдуманной	выдуманная	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	317	amod	_	words@joa1982f#@joa1982f#125.331#125.652
+315	надуманной	надуманный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	317	amod	_	words@joa1982f#@joa1982f#125.01#125.331
+316	выдуманной	выдуманный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	317	amod	_	words@joa1982f#@joa1982f#125.331#125.652
 317	проблемой	проблема	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	314	obl	_	words@joa1982f#@joa1982f#125.652#125.973
 318	/	/	PUNCT	_	_	1085	punct	_	words@joa1982f#@joa1982f#125.973#126.294
 319	возможно	возможно	ADV	_	Degree=Pos	1085	advmod	_	words@joa1982f#@joa1982f#126.294#126.615
@@ -1211,7 +1211,7 @@
 1208	мужики	мужик	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	1211	nsubj	_	words@ijs1984f#@ijs1984f#24.158#24.482
 1209	это	это	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	1211	obj	_	words@ijs1984f#@ijs1984f#24.482#24.806
 1210	вообще	вообще	ADV	_	Degree=Pos	1211	advmod	_	words@ijs1984f#@ijs1984f#24.806#25.13
-1211	плюются	плююевать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	1085	conj	_	words@ijs1984f#@ijs1984f#25.13#25.508
+1211	плюются	плевать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	1085	conj	_	words@ijs1984f#@ijs1984f#25.13#25.508
 1212	#смеется#	#смеется#	X	_	_	1211	xcomp	_	words@ijs1984f#@ijs1984f#28.61#30.33
 1213	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2	1211	nsubj	_	words@ijs1984f#@ijs1984f#32.59#32.852
 1214	/	/	PUNCT	_	_	1215	punct	_	words@ijs1984f#@ijs1984f#32.852#33.114
