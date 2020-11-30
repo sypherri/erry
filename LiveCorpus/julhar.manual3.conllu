@@ -703,11 +703,11 @@
 703	а	а	CCONJ	_	_	706	cc	_	words@joa1982f#@joa1982f#246.974#247.262
 704	вот	вот	PART	_	_	590	advmod	_	words@joa1982f#@joa1982f#247.262#247.55
 705	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	706	nsubj	_	words@joa1982f#@joa1982f#247.55#247.838
-706	прям	прям	X	_ _	694	conj	_	words@joa1982f#@joa1982f#247.838#248.126
+706	прям	прям	X	_	_	694	conj	_	words@joa1982f#@joa1982f#247.838#248.126
 707	/	/	PUNCT	_	_	371	punct	_	words@joa1982f#@joa1982f#248.126#248.414
 708	/	/	PUNCT	_	_	371	punct	_	words@joa1982f#@joa1982f#248.414#248.702
 709	они	они	PRON	_	Case=Nom|Number=Plur|Person=3	710	nsubj	_	words@joa1982f#@joa1982f#248.702#248.99
-710	прям	прям	X	_ _	187	parataxis	_	words@joa1982f#@joa1982f#248.99#249.278
+710	прям	прям	X	_	_	187	parataxis	_	words@joa1982f#@joa1982f#248.99#249.278
 711	/	/	PUNCT	_	_	371	punct	_	words@joa1982f#@joa1982f#249.278#249.566
 712	/	/	PUNCT	_	_	371	punct	_	words@joa1982f#@joa1982f#249.566#249.854
 713	ну	ну	PART	_	_	371	discourse	_	words@joa1982f#@joa1982f#249.854#250.142
@@ -760,7 +760,7 @@
 760	какой-то	какой-то	DET	_	Case=Acc|Gender=Masc|Number=Sing	761	det	_	words@joa1982f#@joa1982f#265.951#266.228
 761	диагноз	диагноз	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	1240	obj	_	words@joa1982f#@joa1982f#266.228#266.505
 762	/	/	PUNCT	_	_	1243	punct	_	words@joa1982f#@joa1982f#266.505#266.782
-763	щас	щас	ADV	_ Degree=Pos	1240	parataxis	_	words@joa1982f#@joa1982f#266.782#267.059
+763	щас	щас	ADV	_	Degree=Pos	1240	parataxis	_	words@joa1982f#@joa1982f#266.782#267.059
 764	/	/	PUNCT	_	_	1243	punct	_	words@joa1982f#@joa1982f#267.059#267.336
 765	ну	ну	PART	_	_	1211	parataxis	_	words@joa1982f#@joa1982f#267.336#267.613
 766	/	/	PUNCT	_	_	1243	punct	_	words@joa1982f#@joa1982f#267.613#267.89
@@ -1257,7 +1257,7 @@
 1257	не	не	PART	_	_	1258	advmod	_	words@ijs1984f#@ijs1984f#117.109#117.32
 1258	знают	знать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	341	csubj	_	words@ijs1984f#@ijs1984f#117.32#117.531
 1259	?	?	PUNCT	_	_	341	punct	_	words@ijs1984f#@ijs1984f#117.531#117.742
-1260	да	да	INTJ _ _	1261	cc	_	words@ijs1984f#@ijs1984f#157.78#158.08
+1260	да	да	INTJ	_	_	1261	cc	_	words@ijs1984f#@ijs1984f#157.78#158.08
 1261	ааа	ааа	X	_	_	341	nsubj	_	words@ijs1984f#@ijs1984f#158.74#159.003
 1262	/	/	PUNCT	_	_	1267	punct	_	words@ijs1984f#@ijs1984f#159.003#159.266
 1263	/	/	PUNCT	_	_	1267	punct	_	words@ijs1984f#@ijs1984f#159.266#159.529
@@ -1266,7 +1266,7 @@
 1266	задницу	задница	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	1267	obl	_	words@ijs1984f#@ijs1984f#160.055#160.318
 1267	потрогал	потрогать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	341	conj	_	words@ijs1984f#@ijs1984f#160.318#160.581
 1268	/	/	PUNCT	_	_	1269	punct	_	words@ijs1984f#@ijs1984f#160.581#160.844
-1269	нет	нет	PART _ _	1267	conj	_	words@ijs1984f#@ijs1984f#160.844#161.107
+1269	нет	нет	PART	_	_	1267	conj	_	words@ijs1984f#@ijs1984f#160.844#161.107
 1270	такого	такой	DET	_	Case=Gen|Gender=Masc|Number=Sing	1269	det	_	words@ijs1984f#@ijs1984f#161.107#161.37
 1271	?	?	PUNCT	_	_	1267	punct	_	words@ijs1984f#@ijs1984f#161.37#161.64
 1272	с	с	ADP	_	_	1273	case	_	words@ijs1984f#@ijs1984f#207.98#208.41
@@ -1275,9 +1275,9 @@
 1275	Алексеем	Алексей	PROPN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	1273	nmod	_	words@ijs1984f#@ijs1984f#209.234#209.368
 1276	Алексеевичем	Алексеевич	PROPN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	1275	flat:name	_	words@ijs1984f#@ijs1984f#209.368#209.502
 1277	/	/	PUNCT	_	_	1283	punct	_	words@ijs1984f#@ijs1984f#209.502#209.636
-1278	да	да	INTJ _ _	1283	cc	_	words@ijs1984f#@ijs1984f#209.636#209.77
+1278	да	да	INTJ	_	_	1283	cc	_	words@ijs1984f#@ijs1984f#209.636#209.77
 1279	ну	ну	PART	_	_	1283	parataxis	_	words@ijs1984f#@ijs1984f#217.28#217.576
-1280	да	да	INTJ _ _	1283	cc	_	words@ijs1984f#@ijs1984f#217.576#217.872
+1280	да	да	INTJ	_	_	1283	cc	_	words@ijs1984f#@ijs1984f#217.576#217.872
 1281	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	1283	nsubj	_	words@ijs1984f#@ijs1984f#217.872#218.168
 1282	же	же	PART	_	_	1281	advmod	_	words@ijs1984f#@ijs1984f#218.168#218.464
 1283	извинился	извиниться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	1014	conj	_	words@ijs1984f#@ijs1984f#218.464#218.76
@@ -1295,9 +1295,9 @@
 1295	/	/	PUNCT	_	_	1296	punct	_	words@ijs1984f#@ijs1984f#254.18#254.535
 1296	случаи	случай	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	1293	parataxis	_	words@ijs1984f#@ijs1984f#254.535#254.89
 1297	домогательства	домогательство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	1296	nmod	_	words@ijs1984f#@ijs1984f#254.89#255.25
-1298	фу	фу	INTJ	_	_	iobj	_	words@ijs1984f#@ijs1984f#303.32#303.645
+1298	фу	фу	INTJ	_	_	1297	iobj	_	words@ijs1984f#@ijs1984f#303.32#303.645
 1299	!	!	PUNCT	_	_	1301	punct	_	words@ijs1984f#@ijs1984f#303.645#303.97
 1300	какая	какой	DET	_	Case=Nom|Gender=Fem|Number=Sing	1301	det	_	words@ijs1984f#@ijs1984f#332.31#332.61
 1301	больница	больница	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	1296	parataxis	_	words@ijs1984f#@ijs1984f#332.61#332.91
 1302	?	?	PUNCT	_	_	1301	punct	_	words@ijs1984f#@ijs1984f#332.91#333.21
-1303	угу	угу	INTJ _ _	377	conj	_	words@ijs1984f#@ijs1984f#341.745#342.005
+1303	угу	угу	INTJ	_	_	377	conj	_	words@ijs1984f#@ijs1984f#341.745#342.005
